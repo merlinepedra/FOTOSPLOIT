@@ -10,6 +10,11 @@
     etc..
  # Advertencia: Te da este error al entrar al link de ngrok?
 ![e](https://raw.githubusercontent.com/Cesar-Hack-Gray/release-download/master/Screenshot_2022-04-04-19-48-34-070_com.android.chrome.jpg)
+# Para solucionarlo sigue estos pasos 
+    1: Dirigete ala página oficial de ngrok en https://ngrok.com
+    2: Una ves estando ahi habre una cuenta o registrate con tu cuenta de google
+    3: Una ves hecho todo copia todo este comando que veras y pegalo en cualquier parte de termux 
+ ![e](https://raw.githubusercontent.com/Cesar-Hack-Gray/release-download/master/Screenshot_2022-04-04-21-03-27-295_com.android.chrome.jpg)
 # Banner FotoSploit 
 ![Screenshot_20191202-134419_Termux~01](https://user-images.githubusercontent.com/46208706/69989850-269e8280-150a-11ea-8ebc-7a585e17ade4.jpg)
 # Installation 
