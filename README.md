@@ -8,7 +8,7 @@
     ubuntu
     parrot
     etc..
-#### Usage: https://youtu.be/sH15XKPVToA
+(https://raw.githubusercontent.com/Cesar-Hack-Gray/release-download/master/Screenshot_2021-09-03-16-26-32-945_com.android.settings.jpg)
 # Banner FotoSploit 
 ![Screenshot_20191202-134419_Termux~01](https://user-images.githubusercontent.com/46208706/69989850-269e8280-150a-11ea-8ebc-7a585e17ade4.jpg)
 # Installation 
